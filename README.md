@@ -15,7 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+[YouTube Video for the Dice Roller](https://youtu.be/xoySI8ow5sA)
 
-![alt text](./assets/dice-roller.png)
-
-[YouTube](https://youtu.be/xoySI8ow5sA)
+![alt text](./assets/dice-roller.png)(https://youtu.be/xoySI8ow5sA)
