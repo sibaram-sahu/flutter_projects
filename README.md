@@ -1,5 +1,6 @@
 # Flutter Projects
 - Dice Roller (dice-roller)
+- Quiz App (quiz-app)
 
 A new Flutter project.
 
